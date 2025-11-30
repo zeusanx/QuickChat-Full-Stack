@@ -1,0 +1,19 @@
+# Node
+node_modules
+npm-debug.log*
+yarn.lock
+pnpm-lock.yaml
+
+# Env files (secrets)
+.env
+client/.env
+server/.env
+
+# Build outputs
+dist
+client/dist
+server/dist
+
+# Others
+.DS_Store
+.vscode
